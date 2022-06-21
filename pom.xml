@@ -21,7 +21,7 @@
 		<commons.io.version>2.6</commons.io.version>
 		<commons.logging.version>1.2</commons.logging.version>
 		<log4j.version>1.2.17</log4j.version>
-		<mysql.connector.version>5.1.47</mysql.connector.version>
+		<mysql.connector.version>8.0.28</mysql.connector.version>
 		<buildVersion>1.8</buildVersion>
 		<buildEncoding>UTF-8</buildEncoding>
 		<!-- 分页插件使用教程： https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/zh/HowToUse.md -->
